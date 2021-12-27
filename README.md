@@ -1,4 +1,4 @@
-# Hi there, this is my test README (/≧▽≦)/
+# Hi there, this is my test profile README (/≧▽≦)/
 
 [![VK](https://img.shields.io/badge/kamexia-VK-0077FF?style=for-the-badge&logo=vk&logoColor=9cf)][vk]
 [![Shikimori](<https://img.shields.io/badge/(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*:%EF%BD%A5%EF%BE%9F%E2%9C%A7-%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84-ff69b4?style=for-the-badge&logo=shikimori&logoColor=white>)](https://shikimori.one/)
@@ -51,17 +51,16 @@
 ---
 
 <details>
-    <summary>⌛ Recent GitHub Activity</summary>
+    <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
 
-<summary>📊 GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
     <img align="left" alt="KameXia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wtrghux&show_icons=true&hide_border=true&theme=cobalt" />
 
 </details>
