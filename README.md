@@ -1,6 +1,6 @@
 # Hi there, this is my test README (/≧▽≦)/
 
-[![VK](https://img.shields.io/badge/kamexia-VK-0077FF?style=for-the-badge&logo=vk&logoColor=9cf)]([vk])
+[![VK](https://img.shields.io/badge/kamexia-VK-0077FF?style=for-the-badge&logo=vk&logoColor=9cf)][vk]
 [![Shikimori](<https://img.shields.io/badge/(%EF%BE%89%E2%97%95%E3%83%AE%E2%97%95)%EF%BE%89*:%EF%BD%A5%EF%BE%9F%E2%9C%A7-%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A%E3%81%AA%E3%81%95%E3%81%84-ff69b4?style=for-the-badge&logo=shikimori&logoColor=white>)](https://shikimori.one/)
 
 ## I'm a ghoul!!
