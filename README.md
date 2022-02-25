@@ -79,8 +79,6 @@
 
 ## Visits
 
----
-
 <p align="center">
     <a href="https://count.getloli.com/">
         <img src="https://count.getloli.com/get/@f1d8a298f5910503cc5098dc992a85e7?theme=gelbooru" alt=":name" />
