@@ -75,6 +75,20 @@
 
 </details>
 
+---
+
+## Visits
+
+---
+
+<p align="center">
+    <a href="https://count.getloli.com/">
+        <img src="https://count.getloli.com/get/@f1d8a298f5910503cc5098dc992a85e7?theme=gelbooru" alt=":name" />
+    </a>
+</p>
+
+Counting since `2022-02-25T17:45:12` (ISO 8601).
+
 <br>
 
 <img align="middle" title="Nice image" src="media/image.jpg"/>
