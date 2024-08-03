@@ -16,6 +16,10 @@
 - 📚 2022 Goals: Graduate from university with "not bad" marks at least.
 - 💻 Fun fact: I love to play videogames and watch anime, so I'm lazy enough.
 
+<br>
+
+## _upd: ну закончил, устроился на работу и забил на этот акк, ну тут и кринж конечно, мда уж..._
+
 ### Social
 
 [<img align="left" title="Vkonakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>][vk]
